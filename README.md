@@ -1,3 +1,6 @@
+# CodeAlpha Credit Scoring Model
+
+🚀 **[Live Streamlit App]-https://codealphaproject-1.streamlit.app/
 💳 Credit Scoring Model
 
 A Machine Learning project developed as part of the CodeAlpha Internship – Task 1.
